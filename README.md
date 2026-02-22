@@ -82,6 +82,11 @@ These techniques ensure layout clarity and responsiveness across screen sizes.
 
 ## Screenshots
 
+Below is the screenshot of the setting screen:
+
+**Full Screen**
+   ![Full Screen](Screenshot.png)
+
 ## How to Run
 
 1. Open the project in Android Studio  
