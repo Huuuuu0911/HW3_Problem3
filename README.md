@@ -85,7 +85,7 @@ These techniques ensure layout clarity and responsiveness across screen sizes.
 ## How to Run
 
 1. Open the project in Android Studio  
-2. Use an emulator with API 33–34 recommended  
+2. Use an emulator with API 34  
 3. Run `MainActivity`  
 
 ---
