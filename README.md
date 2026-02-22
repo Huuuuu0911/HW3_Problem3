@@ -1,4 +1,4 @@
-# 📱 Tag Browser + Filters (FlowRow / FlowColumn)
+# Tag Browser + Filters (FlowRow / FlowColumn)
 
 ## Overview
 
