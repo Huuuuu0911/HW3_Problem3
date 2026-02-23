@@ -81,7 +81,7 @@ These techniques ensure layout clarity and responsiveness across screen sizes.
 
 ## Screenshots
 
-Below is the screenshot of the setting screen:
+Below is the screenshot of the app:
 
 **Full Screen**
    ![Full Screen](Screenshot.png)
