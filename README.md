@@ -16,7 +16,7 @@ The implementation focuses on responsive layout behavior, consistent spacing, an
 
 ---
 
-## 🧱 Layout Structure
+## Layout Structure
 
 The screen is structured as follows:
 
@@ -92,8 +92,6 @@ Below is the screenshot of the setting screen:
 1. Open the project in Android Studio  
 2. Use an emulator with API 34  
 3. Run `MainActivity`  
-
----
 
 ## AI Disclosure
 
