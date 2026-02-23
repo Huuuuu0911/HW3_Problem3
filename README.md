@@ -14,7 +14,6 @@ The screen allows users to:
 
 The implementation focuses on responsive layout behavior, consistent spacing, and proper state management.
 
----
 
 ## Layout Structure
 
